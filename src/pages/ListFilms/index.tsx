@@ -7,7 +7,7 @@ import { Header } from 'components/Header'
 import Lottie from 'react-lottie';
 import loadingAnimation from 'assets/lotties/loading.json'
 
-import { Container, Title, Button, ContainerLoading} from 'pages/ListFilms/style'
+import { Container, Title, ContainerLoading} from 'pages/ListFilms/style'
 
 
 

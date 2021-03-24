@@ -4,7 +4,6 @@ import { Header } from 'components/Header';
 import {ButtonListFilms} from 'components/ButtonListFilms'
 import { ButtonListPeoples } from 'components/ButtonListPeoples';
 import { ButtonListVehicles } from 'components/ButtonListVehicles';
-import { Footer } from "components/Footer";
 
 export function Dashboard() {
   return (
